@@ -5,8 +5,8 @@ The Zexplorer project comprises of three repositories:
 
 Two are mantained by me:
 
-SageBrain: Python Server to manage data.
-zotAngular: Frontend interface in angular.
+[SageBrain](https://github.com/whatwehaveunlearned/zExplorer_SageBrain): Python Server to manage data.
+[zotAngular](https://github.com/whatwehaveunlearned/zExplorer_ZotAngular): Frontend interface in angular.
 
 Another is an external repository:
 
